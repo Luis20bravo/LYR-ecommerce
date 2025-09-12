@@ -1,0 +1,6 @@
+[submodule "ecommerce-api"]
+	path = ecommerce-api
+	url = https://github.com/Luis20bravo/LYR-ecommerce-api.git
+[submodule "lyr-ecommerce-web"]
+	path = lyr-ecommerce-web
+	url = https://github.com/Luis20bravo/LYR-ecommerce-web.git
